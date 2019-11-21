@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '8.0'
+
+target 'ResourcesBubdlesTest_Example' do
+  pod 'ResourcesBubdlesTest', :path => '../'
+
+  target 'ResourcesBubdlesTest_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

@@ -1,0 +1,22 @@
+{
+  "name": "ResourcesBubdlesTest",
+  "version": "0.1.0",
+  "summary": "A short description of ResourcesBubdlesTest.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/renyanyan/ResourcesBubdlesTest",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "renyanyan": "yuanpeichao@kaike.la"
+  },
+  "source": {
+    "git": "https://github.com/renyanyan/ResourcesBubdlesTest.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "ResourcesBubdlesTest/Classes/**/*"
+}

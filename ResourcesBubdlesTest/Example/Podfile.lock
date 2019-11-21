@@ -1,0 +1,16 @@
+PODS:
+  - ResourcesBubdlesTest (0.1.0)
+
+DEPENDENCIES:
+  - ResourcesBubdlesTest (from `../`)
+
+EXTERNAL SOURCES:
+  ResourcesBubdlesTest:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ResourcesBubdlesTest: 1b5cab77871ad571689c91c8d8e56c6b53ce5a4d
+
+PODFILE CHECKSUM: c52509e0c0e3083db66ed0c594211c795a5a49b2
+
+COCOAPODS: 1.8.4

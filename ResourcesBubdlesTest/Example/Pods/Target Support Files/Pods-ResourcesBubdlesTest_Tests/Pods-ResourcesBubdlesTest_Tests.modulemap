@@ -1,0 +1,6 @@
+framework module Pods_ResourcesBubdlesTest_Tests {
+  umbrella header "Pods-ResourcesBubdlesTest_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
